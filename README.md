@@ -1,2 +1,4 @@
 # Full-Stack-Foundations
-Solution Code to Full Stack Foundations (ud088)
+
+#### Udacity Full Stack Foundations Python Server Mini-Projects
+* Restaurant Menu SQLAlchemy database
